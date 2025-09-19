@@ -1,0 +1,645 @@
+{
+    "areas": [
+        {
+            "nombre": "Desarrollo Personal, Ciudadanía y Cívica",
+            "competencias": [
+                {
+                    "nombre": "Construye su identidad",
+                    "descripcion": "El estudiante conoce y valora su cuerpo, su forma de sentir, de pensar y de actuar desde el reconocimiento de las distintas identidades que lo definen (histórica, étnica, social, sexual, cultural, de género, ambiental, entre otras) como producto de las interacciones continuas entre los individuos y los diversos contextos en los que se desenvuelven (familia, escuela, comunidad). No se trata de que los estudiantes construyan una identidad ideal, sino que cada estudiante pueda a su propio ritmo y criterio- ser consciente de las características que lo hacen único y de aquellas que lo hacen semejante a otros.",
+                    "capacidades": [
+                        {
+                            "nombre": "Se valora a sí mismo.",
+                            "descripcion": "El estudiante reconoce sus características, cualidades, limitaciones y potencialidades que lo hacen ser quien es, que le permiten aceptarse, sentirse bien consigo mismo y ser capaz de asumir retos y alcanzar sus metas. Además, se reconoce como integrante de una colectividad sociocultural específica y tiene sentido de pertenencia a su familia, escuela, comunidad, país y mundo."
+                        },
+                        {
+                            "nombre": "Autorregula sus emociones.",
+                            "descripcion": "el estudiante reconoce y toma conciencia de sus emociones, a fin de poder expresarlas de manera adecuada según el contexto, los patrones culturales diversos y las consecuencias que estas tienen para sí mismo y para los demás. Ello le permite regular su comportamiento, en favor de su bienestar y el de los demás."
+                        },
+                        {
+                            "nombre": "Reflexiona y argumenta éticamente.",
+                            "descripcion": "El estudiante analice situaciones cotidianas para identificar los valores que están presentes en ellas y asumir una posición sustentada en argumentos razonados y en principios éticos. Implica también tomar conciencia de las propias decisiones y acciones, a partir de reflexionar sobre si estas responden a los principios éticos asumidos, y cómo los resultados y consecuencias influyen en sí mismos y en los demás."
+                        },
+                        {
+                            "nombre": "Vive su sexualidad de manera plena y responsable.",
+                            "descripcion": "Es tomar conciencia de sí mismo como hombre o mujer, a partir del desarrollo de su imagen corporal, de su identidad sexual y de género, y mediante la exploración y valoración de su cuerpo. Supone establecer relaciones de igualdad entre mujeres y hombres, así como relaciones afectivas armoniosas y libres de violencia. También implica identificar y poner en práctica conductas de autocuidado frente a situaciones que ponen en riesgo su bienestar o que vulneran sus derechos sexuales y reproductivos."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "convive y participa democráticamente en la búsqueda del bien común",
+                    "descripcion": "El estudiante actúa en la sociedad relacionándose con los demás de manera justa y equitativa, reconociendo que todas las personas tienen los mismos derechos y deberes. Muestra disposición por conocer, comprender y enriquecerse con los aportes de las diversas culturas, respetando las diferencias. De igual forma, toma posición frente a aquellos asuntos que lo involucran como ciudadano y contribuye en la construcción del bienestar general, en la consolidación de los procesos democráticos y en la promoción de los derechos humanos.",
+                    "capacidades": [
+                        {
+                            "nombre": "Interactúa con todas las personas",
+                            "descripcion": "reconoce a todos como personas valiosas y con derechos, muestra preocupación por el otro, respeta las diferencias y se enriquece de ellas. Actúa frente a las distintas formas de discriminación (por género, fenotipo, origen étnico, lengua, discapacidad, orientación sexual, edad, nivel socioeconómico, entre otras) y reflexiona sobre las diversas situaciones que vulneran la convivencia democrática."
+                        },
+                        {
+                            "nombre": "Construye normas y asume acuerdos y leyes.",
+                            "descripcion": "El estudiante participa en la construcción de normas, las respeta y evalúa en relación a los principios que las sustentan, así como cumple los acuerdos y las leyes, reconociendo la importancia de estas para la convivencia; para lo cual, maneja información y conceptos relacionados con la convivencia (como la equidad, el respeto y la libertad) y hace suyos los principios democráticos (la autofundación, la secularidad, la incertidumbre, la ética, la complejidad y lo público)."
+                        },
+                        {
+                            "nombre": "Maneja conflictos de manera constructiva.",
+                            "descripcion": "El estudiante actúe con empatía y asertividad frente a ellos y ponga en práctica pautas y estrategias para resolverlos de manera pacífica y creativa, contribuyendo a construir comunidades democráticas; para lo cual parte de comprender el conflicto como inherente a las relaciones humanas, así como desarrollar criterios para evaluar situaciones en las que estos ocurren."
+                        },
+                        {
+                            "nombre": "Delibera sobre asuntos públicos.",
+                            "descripcion": "es que participe en un proceso de reflexión y diálogo sobre asuntos que involucran a todos, donde se plantean diversos puntos de vista y se busca llegar a consensos orientados al bien común. Supone construir una posición propia sobre dichos asuntos basándose en argumentos razonados, la institucionalidad, el Estado de derecho y los principios democráticos, así como valorar y contraponer las diversas posiciones."
+                        },
+                        {
+                            "nombre": "Participa en acciones que promueven el bienestar común.",
+                            "descripcion": "Es que proponga y gestione iniciativas vinculadas con el interés común y con la promoción y defensa de los derechos humanos, tanto en la escuela como en la comunidad. Para ello, se apropia y utiliza canales y mecanismos de participación democrática."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Ciencias Sociales",
+            "competencias": [
+                {
+                    "nombre": "Construye interpretaciones históricas",
+                    "descripcion": "El estudiante sustenta una posición crítica sobre hechos y procesos históricos que ayuden a comprender el presente y sus desafíos, articulando el uso de distintas fuentes; la comprensión de los cambios temporales y la explicación de las múltiples causas y consecuencias de estos. Supone reconocerse como sujeto histórico, es decir, como protagonista de los procesos históricos y, como tal, producto de un pasado, pero que, a la vez, participa en la construcción colectiva del futuro de la nación peruana y de la humanidad.",
+                    "capacidades": [
+                        {
+                            "nombre": "Interpreta críticamente fuentes diversas",
+                            "descripcion": "Es reconocer la diversidad de fuentes y su diferente utilidad para abordar un hecho o proceso histórico. Supone ubicarlas en su contexto y comprender, de manera crítica, que estas reflejan una perspectiva particular y tienen diferentes grados de fiabilidad. También implica recurrir a múltiples fuentes."
+                        },
+                        {
+                            "nombre": "Comprende el tiempo histórico",
+                            "descripcion": "Es usar las nociones relativas al tiempo de manera pertinente, reconociendo que los sistemas de medición temporal son convenciones que dependen de distintas tradiciones culturales y que el tiempo histórico tiene diferentes duraciones. Asimismo, implica ordenar los hechos y procesos históricos cronológicamente y explicar los cambios, permanencias y simultaneidades que se dan en ellos."
+                        },
+                        {
+                            "nombre": "Elabora explicaciones sobre procesos históricos",
+                            "descripcion": "Es jerarquizar las causas de los procesos históricos relacionando las motivaciones de sus protagonistas con su cosmovisión y la época en la que vivieron. También es establecer las múltiples consecuencias de los procesos del pasado y sus implicancias en el presente, así como reconocer que este va construyendo nuestro futuro."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Gestiona responsablemente el espacio y el ambiente",
+                    "descripcion": "El estudiante toma decisiones que contribuyen a la satisfacción de las necesidades desde una posición crítica y una perspectiva de desarrollo sostenible -es decir, sin poner en riesgo a las generaciones futuras-, y participa en acciones de mitigación y adaptación al cambio climático y de disminución de la vulnerabilidad de la sociedad frente a distintos desastres. Supone comprender que el espacio es una construcción social dinámica, es decir, un espacio de interacción entre elementos naturales y sociales que se va transformando a lo largo del tiempo y donde el ser humano cumple un rol fundamental.",
+                    "capacidades": [
+                        {
+                            "nombre": "Comprende las relaciones entre los elementos naturales y sociales",
+                            "descripcion": "Es explicar las dinámicas y transformaciones del espacio geográfico y el ambiente, a partir del reconocimiento de los elementos naturales y sociales que los componen, así como de las interacciones que se dan entre ambos a escala local, nacional o global."
+                        },
+                        {
+                            "nombre": "Maneja fuentes de información para comprender el espacio geográfico y el ambiente",
+                            "descripcion": "Es usar distintas fuentes: georreferenciadas, cartográficas, fotográficas e imágenes diversas, cuadros y gráficos estadísticos, entre otros, para analizar el espacio geográfico y el ambiente, orientarse, desplazarse y radicar en él."
+                        },
+                        {
+                            "nombre": "Genera acciones para conservar el ambiente local y global",
+                            "descripcion": "Es proponer y poner en práctica acciones orientadas al cuidado del ambiente, a contribuir a la mitigación y adaptación al cambio climático, y a la gestión de riesgos de desastres. Esto supone analizar el impacto de las problemáticas ambientales y territoriales en la vida de las personas."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Gestiona responsablemente los recursos económicos",
+                    "descripcion": "El estudiante es capaz de administrar los recursos, tanto personales como familiares, a partir de asumir una postura crítica sobre el manejo de estos, de manera informada y responsable. Esto supone reconocerse como agente económico, comprender la función de los recursos económicos en la satisfacción de las necesidades y el funcionamiento del sistema económico y financiero.",
+                    "capacidades": [
+                        {
+                            "nombre": "Comprende las relaciones entre los elementos del sistema económico y financiero",
+                            "descripcion": "Supone identificar los roles de los diversos agentes que intervienen en el sistema, analizar las interacciones entre ellos y comprender el rol del Estado en dichas interrelaciones."
+                        },
+                        {
+                            "nombre": "Toma decisiones económicas y financieras",
+                            "descripcion": "Supone planificar el uso de sus recursos económicos de manera sostenible, en función a sus necesidades y posibilidades. También implica entender los sistemas de producción y de consumo, así como ejercer sus derechos y deberes como consumidor informado."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Educación Física",
+            "competencias": [
+                {
+                    "nombre": "Se desenvuelve de manera autónoma a través de su motricidad",
+                    "descripcion": "EI estudiante comprende y toma conciencia de sí mismo en interacción con el espacio y las personas de su entorno, lo que contribuye a construir su identidad y autoestima. Interioriza y organiza sus movimientos eficazmente según sus posibilidades, en la práctica de actividades físicas como el juego, el deporte y aquellas que se desarrollan en la vida cotidiana. Asimismo, es capaz de expresar y comunicar a través de su cuerpo: ideas, emociones y sentimientos con gestos, posturas, tono muscular, entre otros.",
+                    "capacidades": [
+                        {
+                            "nombre": "Comprende su cuerpo",
+                            "descripcion": "Interioriza su cuerpo en estado estático o en movimiento en relación al espacio, el tiempo, los objetos y demás personas de su entorno."
+                        },
+                        {
+                            "nombre": "Se expresa corporalmente",
+                            "descripcion": "Usa el lenguaje corporal para comunicar emociones, sentimientos y pensamientos. Implica utilizar el tono, los gestos, mímicas, posturas y movimientos para expresarse, desarrollando la creatividad al usar todos los recursos que ofrece el cuerpo y el movimiento."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Asume una vida saludable",
+                    "descripcion": "El estudiante tiene conciencia reflexiva sobre su bienestar, por lo que incorpora prácticas autónomas que conllevan a una mejora de su calidad de vida. Esto supone que comprende la relación entre vida saludable y bienestar, así como la práctica de actividad física para la salud, posturas corporales adecuadas, alimentación saludable e higiene personal y del ambiente, según sus recursos y entorno sociocultural y ambiental, promoviendo la prevención de enfermedades.",
+                    "capacidades": [
+                        {
+                            "nombre": "Comprende las relaciones entre la actividad física, alimentación, postura e higiene personal y del ambiente, y la salud",
+                            "descripcion": "Es comprender los procesos vinculados con la alimentación, la postura, la higiene corporal y la práctica de actividad física y cómo estos influyen en el estado de bienestar integral (físico, psicológico y emocional)."
+                        },
+                        {
+                            "nombre": "Incorpora prácticas que mejoran su calidad de vida",
+                            "descripcion": "Es asumir una actitud crítica sobre la importancia de hábitos saludables y sus beneficios vinculados con la mejora de la calidad de vida. Esto supone la planificación de rutinas, dietas o planes que pongan en práctica sus conocimientos sobre alimentación, higiene corporal, posturas y actividad física para la salud según sus propias necesidades, recursos y entorno."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Interactúa a través de sus habilidades sociomotrices",
+                    "descripcion": "En la práctica de diferentes actividades físicas (juegos, deportes, actividades predeportivas, etc.). Implica poner en juego los recursos personales para una apropiada interacción social, inclusión y convivencia, insertándose adecuadamente en el grupo y resolviendo conflictos de manera asertiva, empática y pertinente a cada situación. De igual manera, aplica estrategias y tácticas para el logro de un objetivo común en la práctica de diferentes actividades físicas, mostrando una actitud proactiva en la organización de eventos lúdicos y deportivos.",
+                    "capacidades": [
+                        {
+                            "nombre": "Se relaciona utilizando sus habilidades sociomotrices",
+                            "descripcion": "Supone interactuar de manera asertiva con los demás en la práctica lúdica y deportiva experimentando el placer y disfrute que ella representa. Por otro lado, desarrolla habilidades como el respeto a las normas de juego, liderazgo, tolerancia, actitud proactiva, la resolución de conflictos interpersonales, la pertenencia positiva a un grupo, entre otras."
+                        },
+                        {
+                            "nombre": "Crea y aplica estrategias y tácticas de juego",
+                            "descripcion": "Supone emplear los recursos personales y las potencialidades de cada miembro del equipo para el logro de un objetivo común, desarrollando y aplicando reglas y soluciones tácticas de juego en actividades físicas de colaboración, cooperación y oposición."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Arte y Cultura",
+            "competencias": [
+                {
+                    "nombre": "Aprecia de manera crítica manifestaciones artístico-culturales",
+                    "descripcion": "Se define como la interacción entre el estudiante y las manifestaciones artístico-culturales, para que puedan observarlas, investigarlas, comprenderlas y reflexionar sobre ellas. Permite al estudiante desarrollar habilidades para percibir, describir y analizar sus cualidades estéticas, para ayudarlo a apreciar y entender el arte que observa y experimenta. Supone comprender y apreciar los contextos específicos en que se originan estas manifestaciones, y entender que tener conocimiento sobre estos contextos mejora nuestra capacidad de apreciar, producir y entendernos a nosotros mismos, a otros y al entorno. También implica emitir juicios de valor cada vez más informados, basándose en los conocimientos obtenidos en el proceso de apreciación crítica.",
+                    "capacidades": [
+                        {
+                            "nombre": "Percibe manifestaciones artístico-culturales",
+                            "descripcion": "Consiste en usar los sentidos para observar, escuchar, describir y analizar las cualidades visuales, táctiles, sonoras y kinestésicas de diversas manifestaciones artístico-culturales."
+                        },
+                        {
+                            "nombre": "Contextualiza manifestaciones artístico-culturales",
+                            "descripcion": "Es informarse acerca de la cultura en que se origina una manifestación artística para entender cómo el contexto social, cultural e histórico de esta influye en su creación y la manera en que transmite sus significados."
+                        },
+                        {
+                            "nombre": "Reflexiona creativa y críticamente sobre manifestaciones artístico-culturales",
+                            "descripcion": "supone interpretar las intenciones y significados de manifestaciones artístico- culturales que hayan visto o experimentado y emitir juicios de valor, entrelazando información obtenida a través de la percepción, el análisis y la comprensión de los contextos."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Crea proyectos desde los lenguajes artísticos",
+                    "descripcion": "El estudiante usa los diversos lenguajes artísticos (artes visuales, música, danza, teatro, artes interdisciplinares y otros) para expresar o comunicar mensajes, ideas y sentimientos. Pone en práctica habilidades imaginativas, creativas y reflexivas para generar ideas, planificar, concretar propuestas y evaluarlas de manera continua, para lo cual hace uso de recursos y conocimientos que ha desarrollado en su interacción con el entorno, con manifestaciones artístico-culturales diversas y con los diversos lenguajes artísticos. Experimenta, investiga y aplica los diferentes materiales, técnicas y elementos del arte con una intención específica. Asimismo, reflexiona sobre sus procesos y creaciones y los comunica a otros, con el fin de seguir desarrollando sus capacidades críticas y creativas.",
+                    "capacidades": [
+                        {
+                            "nombre": "Explora y experimenta los lenguajes artísticos",
+                            "descripcion": "Significa experimentar, improvisar y desarrollar habilidades en el uso de los medios, materiales, herramientas y técnicas de los diversos lenguajes del arte."
+                        },
+                        {
+                            "nombre": "Aplica procesos creativos",
+                            "descripcion": "Supone generar ideas, investigar, tomar decisiones y poner en práctica sus conocimientos para elaborar un proyecto artístico individual o colaborativo en relación a una intención específica."
+                        },
+                        {
+                            "nombre": "Evalúa y comunica sus procesos y proyectos",
+                            "descripcion": "Significa registrar sus experiencias, comunicar sus descubrimientos y compartir sus creaciones con otros, para profundizar en ellos y reflexionar sobre sus ideas y experiencias."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Comunicación",
+            "competencias": [
+                {
+                    "nombre": "Se comunica oralmente en su lengua materna",
+                    "descripcion": "Se define como una interacción dinámica entre uno o más interlocutores para expresar y comprender ideas y emociones. Supone un proceso activo de construcción del sentido de los diversos tipos de textos orales ya que el estudiante alterna los roles de hablante y oyente con el fin de lograr su propósito comunicativo. Esta competencia se asume como una práctica social donde el estudiante interactúa con distintos individuos o comunidades socioculturales, ya sea de forma presencial o virtual. Al hacerlo, tiene la posibilidad de usar el lenguaje oral de manera creativa y responsable, considerando la repercusión de lo expresado o escuchado, y estableciendo una posición crítica con los medios de comunicación audiovisuales. La comunicación oral es una herramienta fundamental para la constitución de las identidades y el desarrollo personal.",
+                    "capacidades": [
+                        {
+                            "nombre": "Obtiene información del texto oral",
+                            "descripcion": "El estudiante recupera y extrae información explicita expresada por los interlocutores."
+                        },
+                        {
+                            "nombre": "Infiere e interpreta información del texto oral",
+                            "descripcion": "El estudiante construye el sentido del texto. Para ello, infiere estableciendo diversas relaciones entre la información explicita e implicita con el fin de deducir nueva información y completar los vacíos del texto oral. A partir de estas inferencias, el estudiante interpreta integrando la información explícita e implícita, los recursos verbales, no verbales y paraverbales para construir el sentido global y profundo del texto oral, y explicar el propósito, el uso estético del lenguaje, las intenciones e ideologías de los interlocutores, así como su relación con el contexto sociocultural."
+                        },
+                        {
+                            "nombre": "Adecúa, organiza y desarrolla las ideas de forma coherente y cohesionada",
+                            "descripcion": "El estudiante expresa sus ideas adaptándose al propósito, destinatario, características del tipo de texto, género discursivo y registro, considerando las normas y modos de cortesía, así como los contextos socioculturales que enmarcan la comunicación. Asimismo, expresa las ideas en torno a un tema de forma lógica, relacionándolas mediante diversos recursos cohesivos para construir el sentido de distintos tipos de textos y géneros discursivos."
+                        },
+                        {
+                            "nombre": "Utiliza recursos no verbales y paraverbales de forma estratégica",
+                            "descripcion": "El estudiante emplea variados recursos no verbales (como gestos o movimientos corporales) o paraverbales (como el tono de la voz o silencios) según la situación comunicativa para enfatizar o matizar significados y producir determinados efectos en los interlocutores."
+                        },
+                        {
+                            "nombre": "Interactúa estratégicamente con distintos interlocutores",
+                            "descripcion": "El estudiante intercambia los roles de hablante y oyente alternada y dinámicamente, participando de forma pertinente, oportuna y relevante para lograr su propósito comunicativo."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y contexto del texto oral",
+                            "descripcion": "los procesos de reflexión y evaluación están relacionados porque ambos suponen que el estudiante se distancie de los textos orales en los que participa. Para ello, reflexiona como oyente y hablante, que supone distanciarse de los textos orales en que participa de forma presencial o a través de medios audiovisuales, comparando y contrastando aspectos formales y de contenido, con la experiencia, el contexto, el conocimiento formal y diversas fuentes de información. Asimismo, evalúa, que implica analizar y valorar los textos orales producidos para construir una opinión personal o un juicio critico sobre sus aspectos formales, contenidos e ideologías, y su relación con el contexto sociocultural, considerando los efectos que producen en los interlocutores."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Lee diversos tipos de textos escritos en lengua materna",
+                    "descripcion": "Esta competencia se define como una interacción dinámica entre el lector, el texto y los contextos socioculturales que enmarcan la lectura. Supone para el estudiante un proceso activo de construcción del sentido, ya que el estudiante no solo decodifica o comprende la información explicita de los textos que lee sino que es capaz de interpretarlos y establecer una posición sobre ellos. Cuando el estudiante pone en juego está competencia utiliza saberes de distinto tipo y recursos provenientes de su experiencia lectora y del mundo que lo rodea. Ello implica tomar conciencia de la diversidad de propósitos que tiene la lectura, del uso que se hace de esta en distintos ámbitos de la vida, del papel de la experiencia literaria en la formación de lectores y de las relaciones intertextuales que se establecen entre los textos leídos. Esto es crucial en un mundo donde las nuevas tecnologías y la multimodalidad han transformado los modos de leer. Para construir el sentido de los textos que lee, es indispensable asumir la lectura como una práctica social situada en distintos grupos o comunidades de lectores. Al involucrarse con la lectura, el estudiante contribuye con su desarrollo personal, así como el de su propia comunidad, además de conocer e interactuar con contextos socioculturales distintos al suyo.",
+                    "capacidades": [
+                        {
+                            "nombre": "Obtiene información del texto escrito",
+                            "descripcion": "El estudiante localiza y selecciona información explícita en textos escritos con un propósito especifico."
+                        },
+                        {
+                            "nombre": "Infiere e interpreta información del texto",
+                            "descripcion": "el estudiante construye el sentido del texto. Para ello, infiere estableciendo diversas relaciones entre la información explícita e implícita con el fin de deducir nueva información y completar los vacíos del texto. A partir de estas inferencias, el estudiante interpreta integrando la información explícita e implícita, así como los recursos textuales, para construir el sentido global y profundo del texto, y explicar el propósito, el uso estético del lenguaje, las intenciones del autor, las ideologías de los textos así como su relación con el contexto sociocultural del lector y del texto."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y contexto del texto",
+                            "descripcion": "Los procesos de reflexión y evaluación están relacionados porque ambos suponen que el estudiante se distancie de los textos escritos situados en épocas y lugares distintos, y que son presentados en diferentes soportes y formatos. Reflexionar implica comparar y contrastar aspectos formales y de contenido del texto con la experiencia, el conocimiento formal del lector y diversas fuentes de información. Evaluar implica analizar y valorar los textos escritos para construir una opinión personal o un juicio crítico sobre aspectos formales, estéticos, contenidos e ideologías de los textos, considerando los efectos que producen, la relación con otros textos, y el contexto sociocultural del texto y del lector."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Escribe diversos tipos de textos en lengua materna",
+                    "descripcion": "Esta competencia se define como el uso del lenguaje escrito para construir sentidos en el texto y comunicarlos a otros. Se trata de un proceso reflexivo porque supone la adecuación y organización de los textos considerando los contextos y el propósito comunicativo, así como la revisión permanente de lo escrito con la finalidad de mejorarlo. En esta competencia, el estudiante pone en juego saberes de distinto tipo y recursos provenientes de su experiencia con el lenguaje escrito y del mundo que lo rodea. Utiliza el sistema alfabético y un conjunto de convenciones de la escritura, así como diferentes estrategias para ampliar ideas, enfatizar o matizar significados en los textos que escribe. Con ello, toma conciencia de las posibilidades y limitaciones que ofrece el lenguaje, la comunicación y el sentido. Esto es crucial en una época dominada por nuevas tecnologías que han transformado la naturaleza de la comunicación escrita. Para construir el sentido de los textos que escribe, es indispensable asumir la escritura como una práctica social que permite participar en distintos grupos o comunidades socioculturales. Además de participar en la vida social, esta competencia supone otros propósitos, como la construcción de conocimientos o el uso estético el lenguaje. Al involucrarse con la escritura, se ofrece la posibilidad de interactuar con otras personas empleando el lenguaje escrito de manera creativa y responsable, teniendo en cuenta su repercusión en los demás.",
+                    "capacidades": [
+                        {
+                            "nombre": "Adecúa el texto a la situación comunicativa",
+                            "descripcion": "El estudiante considera el propósito, destinatario, tipo de texto, género discursivo y registro que utilizará al escribir los textos, así como los contextos socioculturales que enmarcan la comunicación escrita."
+                        },
+                        {
+                            "nombre": "Organiza y desarrolla las ideas de forma coherente y cohesionada",
+                            "descripcion": "El estudiante ordena lógicamente las ideas en torno a un tema, ampliándolas y complementándolas, estableciendo relaciones de cohesión entre ellas y utilizando un vocabulario pertinente."
+                        },
+                        {
+                            "nombre": "Utiliza convenciones del lenguaje escrito de forma pertinente",
+                            "descripcion": "El estudiante usa de forma apropiada recursos textuales, gramaticales y ortográficos para garantizar la claridad, el uso estético del lenguaje y el sentido del texto escrito."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y contexto del texto escrito",
+                            "descripcion": "el estudiante se distancia del texto que ha escrito para revisar de manera permanente el contenido, la coherencia, cohesión y adecuación a la situación comunicativa con la finalidad de mejorarlo. También implica analizar, comparar y contrastar las características de los usos del lenguaje escrito y sus posibilidades, así como su repercusión en otras personas o su relación con otros textos según el contexto sociocultural."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Castellano como segunda lengua",
+            "competencias": [
+                {
+                    "nombre": "Se comunica oralmente en castellano como segunda lengua",
+                    "descripcion": "Se define como una interacción dinámica entre uno o más interlocutores para expresar y comprender ideas y emociones. Supone un proceso activo de construcción del sentido de los diversos tipos de textos orales, ya que el estudiante alterna los roles de hablante y oyente con el fin de lograr su propósito comunicativo. El estudiante pone en juego saberes de distinto tipo y recursos provenientes del lenguaje oral y del mundo que lo rodea. Esto significa considerar los modos de cortesía de acuerdo al contexto sociocultural, así como los recursos no verbales y paraverbales y las diversas estrategias de manera pertinente para expresarse, intercambiar información, persuadir, consensuar, entre otros fines. De igual forma, supone tomar conciencia del impacto de las nuevas tecnologias en la oralidad. La comunicación oral es una herramienta fundamental para la constitución de las identidades y el desarrollo personal. Esta competencia se asume como una práctica social en la que el estudiante interactúa con distintos individuos o comunidades socioculturales, ya sea de forma presencial o virtual. Al hacerlo, tiene la posibilidad de usar el lenguaje oral de manera creativa y responsable, considerando la repercusión de lo expresado o escuchado, y estableciendo una posición crítica frente a los medios de comunicación audiovisuales.",
+                    "capacidades": [
+                        {
+                            "nombre": "Obtiene información del texto oral",
+                            "descripcion": "El estudiante recupera y extrae información explícita expresada por los interlocutores."
+                        },
+                        {
+                            "nombre": "Infiere e interpreta información del texto oral",
+                            "descripcion": "El estudiante construye el sentido del texto a partir de relacionar información explícita e implícita para deducir una nueva información o completar los vacíos del texto oral. A partir de estas inferencias, el estudiante interpreta el sentido del texto, los recursos verbales, no verbales y gestos, el uso estético del lenguaje y las intenciones de los interlocutores con los que se relaciona en un contexto sociocultural determinado."
+                        },
+                        {
+                            "nombre": "Adecúa, organiza y desarrolla las ideas de forma coherente y cohesionada",
+                            "descripcion": "El estudiante expresa sus ideas adaptándose al propósito, destinatario, características del tipo de texto, género discursivo y registro, considerando las normas y modos de cortesía, así como los contextos socioculturales que enmarcan la comunicación. Asimismo, expresa las ideas en torno a un tema de forma lógica, relacionándolas mediante diversos recursos cohesivos para construir el sentido de distintos tipos de textos y géneros discursivos."
+                        },
+                        {
+                            "nombre": "Utiliza recursos no verbales y paraverbales de forma estratégica",
+                            "descripcion": "El estudiante emplea variados recursos no verbales (como gestos o movimientos corporales) o paraverbales (como el tono de la voz o silencios) según la situación comunicativa para enfatizar o matizar significados y producir determinados efectos en los interlocutores."
+                        },
+                        {
+                            "nombre": "Interactúa estratégicamente con distintos interlocutores",
+                            "descripcion": "El estudiante intercambia los roles de hablante y oyente alternada y dinámicamente, participando de forma pertinente, oportuna y relevante para lograr su propósito comunicativo."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y contexto del texto oral",
+                            "descripcion": "Los procesos de reflexión y evaluación están relacionados porque ambos suponen que el estudiante se distancie de los textos orales en los que participa. Para ello, compara y contrasta los aspectos formales y de contenido con su experiencia, el contexto donde se encuentra y diversas fuentes de información. Asimismo, emite una opinión personal sobre los aspectos formales, el contenido y las intenciones de los interlocutores con los que interactúa, en relación al contexto sociocultural donde se encuentran."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Lee diversos tipos de textos escritos en castellano como segunda lengua",
+                    "descripcion": "Esta competencia se define como una interacción dinámica entre el lector, el texto y los contextos socioculturales que enmarcan la lectura. Supone un proceso activo de construcción del sentido, ya que el estudiante no solo decodifica o comprende la información explícita de los textos que lee sino que es capaz de interpretarlos y establecer una posición sobre ellos. En esta competencia el estudiante pone en juego saberes de distinto tipo y recursos provenientes de su experiencia lectora y del mundo que lo rodea. Ello implica tomar conciencia de la diversidad de propósitos que tiene la lectura, del uso que se hace de esta en distintos ámbitos de la vida, del papel de la experiencia literaria en la formación de lectores y de las relaciones intertextuales que se establecen entre los textos leídos. Esto es crucial en un mundo donde las nuevas tecnologías y la multimodalidad han transformado los modos de leer. Para construir el sentido de los textos que lee, es indispensable que el estudiante asuma que la lectura en castellano como segunda lengua es una práctica social situada en distintos grupos o comunidades de lectores que contribuye con su desarrollo personal, así como el de su propia comunidad, además de conocer e interactuar con contextos socioculturales distintos al suyo.",
+                    "capacidades": [
+                        {
+                            "nombre": "Obtiene información del texto escrito",
+                            "descripcion": "El estudiante localiza y selecciona información explícita en textos escritos con un propósito específico."
+                        },
+                        {
+                            "nombre": "Infiere e interpreta información del texto escrito",
+                            "descripcion": "El estudiante construye el sentido del texto. Para ello, establece relaciones entre la información explícita e implícita de éste para deducir una nueva información o completar los vacíos del texto escrito. A partir de estas deducciones, el estudiante interpreta la relación entre la información implícita y la información explícita, así como los recursos textuales, para construir el sentido global y profundo del texto, y explicar el propósito, el uso estético del lenguaje, las intenciones del autor, así como la relación con el contexto sociocultural del lector y del texto."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y contexto del texto escrito",
+                            "descripcion": "Los procesos de reflexión y evaluación están relacionados porque ambos suponen que el estudiante se distancie de los textos escritos situados en épocas y lugares distintos, y que son presentados en diferentes soportes y formatos. Para ello, compara y contrasta aspectos formales y de contenido del texto con la experiencia, el conocimiento formal del lector y diversas fuentes de información. Asimismo, emite una opinión personal sobre aspectos formales, estéticos, contenidos de los textos. considerando los efectos que producen, la relación con otros textos, y el contexto sociocultural del texto y del lector."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Escribe diversos tipos de textos en castellano como segunda lengua",
+                    "descripcion": "Esta competencia se define como el uso del lenguaje escrito para construir sentidos en el texto y comunicarlos a otros. Se trata de un proceso reflexivo porque supone la adecuación y organización de los textos considerando los contextos y el propósito comunicativo, así como la revisión permanente de lo escrito con la finalidad de mejorarlo. El estudiante pone en juego saberes de distinto tipo y recursos provenientes de su experiencia con el lenguaje escrito y del mundo que lo rodea. Utiliza el sistema alfabético y un conjunto de convenciones de la escritura, así como diferentes estrategias para ampliar ideas, enfatizar o matizar significados en los textos que escribe. Con ello, toma conciencia de las posibilidades y limitaciones que ofrecen el lenguaje y la comunicación. Esto es crucial en una época dominada por nuevas tecnologías que han transformado la naturaleza de la comunicación escrita. Para construir el sentido de los textos que escribe, es indispensable asumir la escritura como una práctica social que permite participar en distintos grupos o comunidades socioculturales. Además de participar en la vida social, esta competencia supone otros propósitos, como la construcción de conocimientos o el uso estético el lenguaje. Al involucrarse con la escritura, se ofrece la posibilidad de interactuar con otras personas empleando el lenguaje escrito de manera creativa y responsable, teniendo en cuenta su repercusión en los demás.",
+                    "capacidades": [
+                        {
+                            "nombre": "Adecúa el texto a la situación comunicativa",
+                            "descripcion": "El estudiante considera el propósito, destinatario, tipo de texto, género discursivo y registro que utilizará al escribir los textos, así como los contextos socioculturales que enmarcan la comunicación escrita."
+                        },
+                        {
+                            "nombre": "Organiza y desarrolla las ideas de forma coherente y cohesionada",
+                            "descripcion": "el estudiante ordena lógicamente las ideas en torno a un tema, ampliándolas y complementándolas, estableciendo relaciones de cohesión entre ellas y utilizando un vocabulario pertinente."
+                        },
+                        {
+                            "nombre": "Utiliza convenciones del lenguaje escrito de forma pertinente",
+                            "descripcion": "El estudiante usa de forma apropiada recursos textuales para garantizar la claridad, el uso estético del lenguaje y el sentido del texto escrito."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y contexto del texto escrito",
+                            "descripcion": "El estudiante se distancia del texto que ha escrito para revisar de manera permanente el contenido, la coherencia, cohesión y adecuación a la situación comunicativa con la finalidad de mejorarlo. También implica analizar, comparar y contrastar las características de los usos del lenguaje escrito y sus posibilidades, así como su repercusión en otras personas o su relación con otros textos según el contexto sociocultural."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Inglés como lengua extranjera",
+            "competencias": [
+                {
+                    "nombre": "Se comunica oralmente en inglés como lengua extranjera",
+                    "descripcion": "Se define como una interacción dinámica entre uno o más interlocutores para comunicar sus ideas y emociones. Se trata de una comprensión y producción eficaz porque supone un proceso activo de construcción del sentido de los diversos tipos de textos que expresa o escucha, para lograr sus propósitos. En este proceso, el estudiante pone en juego habilidades, conocimientos y actitudes provenientes del lenguaje oral y del mundo que lo rodea. Esta competencia también implica el uso adecuado de diferentes estrategias conversacionales considerando los modos de cortesía de acuerdo al contexto sociocultural, como tomar el turno oportunamente, enriquecer y contribuir al tema de una conversación y mantener el hilo temático con el fin de negociar, persuadir, cooperar, entre otros. Para construir el sentido de los textos orales, es indispensable asumir la oralidad como una actividad social en la cual el estudiante interactúa con distintos grupos o comunidades socioculturales. Al hacerlo, tiene la posibilidad de usar el lenguaje oral de manera creativa y responsable, teniendo en cuenta la repercusión de lo dicho.",
+                    "capacidades": [
+                        {
+                            "nombre": "Obtiene información de textos orales",
+                            "descripcion": "consiste en recuperar y extraer información explicita expresada por los interlocutores."
+                        },
+                        {
+                            "nombre": "Infiere e interpreta información de textos orales",
+                            "descripcion": "El estudiante construye el sentido del texto a partir de relacionar información explícita e implícita para deducir una nueva información o completar los vacíos del texto oral. A partir de estas inferencias, el estudiante interpreta el sentido del texto, los recursos verbales, no verbales y gestos, el uso estético del lenguaje y las intenciones de los interlocutores con los que se relaciona en un contexto sociocultural determinado."
+                        },
+                        {
+                            "nombre": "Adecúa, organiza y desarrolla las ideas de forma coherente y cohesionada",
+                            "descripcion": "Consiste en desarrollar ideas adecuándolas al propósito, destinatario, características del tipo de texto, registro y contexto, considerando las normas y modos de cortesía. Organiza la información en torno a un tema y usa diversos recursos cohesivos para relacionar las ideas del texto oral."
+                        },
+                        {
+                            "nombre": "Utiliza recursos no verbales y paraverbales de forma estratégica",
+                            "descripcion": "El estudiante emplea variados recursos no verbales (como gestos o movimientos corporales) o paraverbales (como el tono de la voz o silencios) según la situación comunicativa para enfatizar o matizar significados y producir determinados efectos en los interlocutores."
+                        },
+                        {
+                            "nombre": "Interactúa estratégicamente con distintos interlocutores",
+                            "descripcion": "El estudiante intercambia los roles de hablante y oyente alternada y dinámicamente, participando de forma pertinente, oportuna y relevante para lograr su propósito comunicativo."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y el contexto del texto oral",
+                            "descripcion": "los procesos de reflexión y evaluación están relacionados porque ambos suponen que el estudiante se distancie de los. textos orales en los que participa. Para ello, compara y contrasta los aspectos formales y de contenido con su experiencia, el contexto donde se encuentra y diversas fuentes de información. Asimismo, emite una opinión personal sobre los aspectos formales, el contenido, y las intenciones de los interlocutores con los que interactúa, en relación al contexto sociocultural donde se encuentran."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Lee diversos tipos de textos escritos en inglés como lengua extranjera",
+                    "descripcion": "Se define como una interacción dinámica entre el lector, el texto y los contextos socioculturales que enmarcan la lectura. Se trata de una comprensión crítica porque supone un proceso activo de construcción del sentido de los diversos tipos de textos que lee a través de procesos de comprensión literal e inferencial, interpretación y reflexión. En tales procesos, el estudiante pone en juego habilidades, saberes y actitudes provenientes de su experiencia lectora y del mundo que lo rodea, tomando conciencia de las posibilidades y limitaciones que ofrece el lenguaje, la comunicación y el sentido. Esta competencia también implica que el estudiante sea consciente que la lectura de textos cumple propósitos específicos, como disfrutar, resolver un problema o una duda, seguir instrucciones, investigar, defender una posición, entre otros. Asimismo, la competencia considera la lectura de diversos tipos de textos, es decir, estos textos pertenecen a diferentes géneros, épocas y autores, y están situados en espacios y tiempos determinados. Esta diversidad textual se presenta en diferentes formatos y soportes, como el impreso, digital y multimodal, cada cual con sus características y particularidades. Para construir el sentido de los textos que lee, es indispensable que el estudiante participe en prácticas sociales de lectura en inglés que se presentan en distintos grupos o comunidades socioculturales. Al participar en tales prácticas de lectura, el estudiante contribuye con su desarrollo integral, así como el de su propia comunidad, además de conocer e interactuar con contextos socioculturales distintos al suyo.",
+                    "capacidades": [
+                        {
+                            "nombre": "Obtiene información del texto escrito",
+                            "descripcion": "El estudiante localiza y selecciona información explícita en textos escritos con un propósito específico."
+                        },
+                        {
+                            "nombre": "Infiere e interpreta información del texto escrito",
+                            "descripcion": "El estudiante construye el sentido del texto. Para ello, establece relaciones entre la información explícita e implícita de éste para deducir una nueva información o completar los vacíos del texto escrito. A partir de estas deducciones, el estudiante interpreta la relación entre la información implícita y la información explícita, así como los recursos textuales, para construir el sentido global y profundo del texto, y explicar el propósito, el uso estético del lenguaje, las intenciones del autor, así como la relación con el contexto sociocultural del lector y del texto."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y el contexto del texto escrito",
+                            "descripcion": "los procesos de reflexión y evaluación están relacionados porque ambos suponen que el estudiante se distancie de los textos escritos situados en épocas y lugares distintos, y que son presentados en diferentes soportes y formatos. Para ello, compara y contrasta aspectos formales y de contenido del texto con la experiencia, el conocimiento formal del lector y diversas fuentes de información. Asimismo, emite una opinión personal sobre aspectos formales, estéticos, contenidos de los textos considerando los efectos que producen, la relación con otros textos, y el contexto sociocultural del texto y del lector."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Escribe diversos tipos de textos en inglés como lengua extranjera",
+                    "descripcion": "Esta competencia se define como el uso del lenguaje escrito para construir sentidos en el texto y comunicarlos a otros. Se trata de un proceso reflexivo porque supone la adecuación y organización de los textos considerando los contextos y el propósito comunicativo, así como la revisión permanente de lo escrito con la finalidad de mejorarlo. El estudiante pone en juego saberes de distinto tipo y recursos provenientes de su experiencia con el lenguaje escrito y del mundo que lo rodea. Utiliza el sistema alfabético y un conjunto de convenciones de la escritura, así como diferentes estrategias para ampliar ideas, enfatizar o matizar significados en los textos que escribe. Con ello, toma conciencia de las posibilidades y limitaciones que ofrece el lenguaje, la comunicación y el sentido. Esto es crucial en una época dominada por nuevas tecnologías que han transformado la naturaleza de la comunicación escrita. Para construir el sentido de los textos que escribe, es indispensable asumir la escritura como una práctica social que permite participar en distintos grupos o comunidades socioculturales. Además de participar en la vida social, esta competencia supone otros propósitos, como la construcción de conocimientos o el uso estético el lenguaje. Al involucrarse con la escritura, se ofrece la posibilidad de interactuar con otras personas empleando el lenguaje escrito de manera creativa y responsable, teniendo en cuenta su repercusión en los demás.",
+                    "capacidades": [
+                        {
+                            "nombre": "Adecúa el texto a la situación comunicativa",
+                            "descripcion": "El estudiante considera el propósito, destinatario, tipo de texto, género discursivo y registro que utilizará al escribir los textos, así como los contextos socioculturales que enmarcan la comunicación escrita."
+                        },
+                        {
+                            "nombre": "Organiza y desarrolla las ideas de forma coherente y cohesionada",
+                            "descripcion": "el estudiante ordena lógicamente las ideas en torno a un tema, ampliándolas y complementándolas, estableciendo relaciones de cohesión entre ellas y utilizando un vocabulario pertinente."
+                        },
+                        {
+                            "nombre": "Utiliza convenciones del lenguaje escrito de forma pertinente",
+                            "descripcion": "El estudiante usa de forma apropiada recursos textuales para garantizar la claridad, el uso estético del lenguaje y el sentido del texto escrito."
+                        },
+                        {
+                            "nombre": "Reflexiona y evalúa la forma, el contenido y el contexto del texto escrito",
+                            "descripcion": "El estudiante se distancia del texto que ha escrito para revisar de manera permanente el contenido, la coherencia, cohesión y adecuación a la situación comunicativa con la finalidad de mejorarlo. También implica analizar, comparar y contrastar las características de los usos del lenguaje escrito y sus posibilidades, así como su repercusión en otras personas o su relación con otros textos según el contexto sociocultural."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Matemática",
+            "competencias": [
+                {
+                    "nombre": "Resuelve problemas de cantidad",
+                    "descripcion": "Consiste en que el estudiante solucione problemas o plantee nuevos problemas que le demanden construir y comprender las nociones de cantidad, de número, de sistemas numéricos, sus operaciones y propiedades. Además dotar de significado a estos conocimientos en la situación y usarlos para representar o reproducir las relaciones entre sus datos y condiciones. Implica también discernir si la solución buscada requiere darse como una estimación o cálculo exacto, y para ello selecciona estrategias, procedimientos, unidades de medida y diversos recursos. El razonamiento lógico en esta competencia es usado cuando el estudiante hace comparaciones, explica a través de analogías, induce propiedades a partir de casos particulares o ejemplos, en el proceso de resolución del problema.",
+                    "capacidades": [
+                        {
+                            "nombre": "Traduce cantidades a expresiones numéricas",
+                            "descripcion": "Es transformar las relaciones entre los datos y condiciones de un problema a una expresión numérica (modelo) que reproduzca las relaciones entre estos; esta expresión se comporta como un sistema compuesto por números, operaciones y sus propiedades. Es plantear problemas a partir de una situación o una expresión numérica dada. También implica evaluar si el resultado obtenido o la expresión numérica formulada (modelo), cumplen las condiciones iniciales del problema."
+                        },
+                        {
+                            "nombre": "Comunica su comprensión sobre los números y las operaciones",
+                            "descripcion": "Es expresar la comprensión de los conceptos numéricos, las operaciones y propiedades, las unidades de medida, las relaciones que establece entre ellos; usando lenguaje numérico y diversas representaciones; así como leer sus representaciones e información con contenido numérico."
+                        },
+                        {
+                            "nombre": "Usa estrategias y procedimientos de estimación y cálculo",
+                            "descripcion": "es seleccionar, adaptar, combinar o crear una variedad de estrategias, procedimientos como el cálculo mental y escrito, la estimación, la aproximación y medición, comparar cantidades; y emplear diversos recursos."
+                        },
+                        {
+                            "nombre": "Argumenta afirmaciones sobre las relaciones numéricas y las operaciones",
+                            "descripcion": "Es elaborar afirmaciones sobre las posibles relaciones entre números naturales, enteros, racionales, reales, sus operaciones y propiedades; basado en comparaciones y experiencias en las que induce propiedades a partir de casos particulares; así como explicarlas con analogías, justificarlas, validarlas o refutarlas con ejemplos y contraejemplos."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Resuelve problemas de regularidad, equivalencia y cambio",
+                    "descripcion": "Consiste en que el estudiante logre caracterizar equivalencias y generalizar regularidades y el cambio de una magnitud con respecto de otra, a través de reglas generales que le permitan encontrar valores desconocidos, determinar restricciones y hacer predicciones sobre el comportamiento de un fenómeno. Para ello plantea ecuaciones, inecuaciones y funciones, y usa estrategias, procedimientos y propiedades para resolverlas, graficarlas o manipular expresiones simbólicas. Así también razona de manera inductiva y deductiva, para determinar leyes generales mediante varios ejemplos, propiedades y contraejemplos.",
+                    "capacidades": [
+                        {
+                            "nombre": "Traduce datos y condiciones a expresiones algebraicas y gráfica",
+                            "descripcion": "Significa transformar los datos, valores desconocidos, variables y relaciones de un problema a una expresión gráfica o algebraica (modelo) que generalice la interacción entre estos. Implica también evaluar el resultado o la expresión formulada con respecto a las condiciones de la situación; y formular preguntas o problemas a partir de una situación o una expresión."
+                        },
+                        {
+                            "nombre": "Comunica su comprensión sobre las relaciones algebraicas",
+                            "descripcion": "Significa expresar su comprensión de la noción, concepto o propiedades de los patrones, funciones, ecuaciones e inecuaciones estableciendo relaciones entre estas; usando lenguaje algebraico y diversas representaciones. Así como interpretar información que presente contenido algebraico."
+                        },
+                        {
+                            "nombre": "Usa estrategias y procedimientos para encontrar equivalencias y reglas generales",
+                            "descripcion": "Es seleccionar, adaptar, combinar o crear, procedimientos, estrategias y algunas propiedades para simplificar o transformar ecuaciones, inecuaciones y expresiones simbólicas que le permitan resolver ecuaciones, determinar dominios y rangos, representar rectas, parábolas, y diversas funciones."
+                        },
+                        {
+                            "nombre": "Argumenta afirmaciones sobre relaciones de cambio y equivalencia",
+                            "descripcion": "Significa elaborar afirmaciones sobre variables, reglas algebraicas y propiedades algebraicas, razonando de manera inductiva para generalizar una regla y de manera deductiva probando y comprobando propiedades y nuevas relaciones."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Resuelve problemas de forma, movimiento y localización",
+                    "descripcion": "Consiste en que el estudiante se oriente y describa la posición y el movimiento de objetos y de sí mismo en el espacio, visualizando, interpretando y relacionando las características de los objetos con formas geométricas bidimensionales y tridimensionales. Implica que realice mediciones directas o indirectas de la superficie, del perímetro, del volumen y de la capacidad de los objetos, y que logre construir representaciones de las formas geométricas para diseñar objetos, planos y maquetas, usando instrumentos, estrategias y procedimientos de construcción y medida, Además describa trayectorias y rutas, usando sistemas de referencia y lenguaje geométrico.",
+                    "capacidades": [
+                        {
+                            "nombre": "Modela objetos con formas geométricas y sus transformaciones",
+                            "descripcion": "es construir un modelo que reproduzca las características de los objetos, su localización y movimiento, mediante formas geométricas, sus elementos y propiedades; la ubicación y transformaciones en el plano. Es también evaluar si el modelo cumple con las condiciones dadas en el problema."
+                        },
+                        {
+                            "nombre": "Comunica su comprensión sobre las formas y relaciones geométricas",
+                            "descripcion": "es comunicar su comprensión de las propiedades de las formas geométricas, sus transformaciones y la ubicación en un sistema de referencia; es también establecer relaciones entre estas formas, usando lenguaje geométrico y representaciones gráficas o simbólicas."
+                        },
+                        {
+                            "nombre": "Usa estrategias y procedimientos para orientarse en el espacio",
+                            "descripcion": "Es seleccionar, adaptar, combinar o crear, una variedad de estrategias, procedimientos y recursos para construir formas geométricas, trazar rutas, medir o estimar distancias y superficies, y transformar las formas bidimensionales y tridimensionales."
+                        },
+                        {
+                            "nombre": "Argumenta afirmaciones sobre relaciones geométricas",
+                            "descripcion": "es elaborar afirmaciones sobre las posibles relaciones entre los elementos y las propiedades de las formas geométricas a partir de su exploración o visualización. Asimismo, justificarlas, validarlas o refutarlas, basado en su experiencia, ejemplos o contraejemplos, y conocimientos sobre propiedades geométricas; usando el razonamiento inductivo o deductivo."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Resuelve problemas de gestión de datos e incertidumbre",
+                    "descripcion": "Consiste en que el estudiante analice datos sobre un tema de interés o estudio o de situaciones aleatorias, que le permitan tomar decisiones, elaborar predicciones razonables y conclusiones respaldadas en la información producida. Para ello, el estudiante recopila, organiza y representa datos que le dan insumos para el análisis, interpretación e inferencia del comportamiento determinista o aleatorio de la situación usando medidas estadísticas y probabilísticas.",
+                    "capacidades": [
+                        {
+                            "nombre": "Representa datos con gráficos y medidas estadísticas o probabilísticas",
+                            "descripcion": "Es representar el comportamiento de un conjunto de datos, seleccionando tablas o gráficos estadísticos, medidas de tendencia central, de localización o dispersión. Reconocer variables de la población o la muestra al plantear un tema de estudio. Así también implica el análisis de situaciones aleatorias y representar la ocurrencia de sucesos mediante el valor de la probabilidad."
+                        },
+                        {
+                            "nombre": "Comunica su comprensión de los conceptos estadísticos y probabilísticos",
+                            "descripcion": "Es comunicar su comprensión de conceptos estadísticos y probabilísticos en relación a la situación. Leer, describir e interpretar información estadística contenida en gráficos o tablas provenientes de diferentes fuentes."
+                        },
+                        {
+                            "nombre": "Usa estrategias y procedimientos para recopilar y procesar datos",
+                            "descripcion": "Es seleccionar, adaptar, combinar o crear una variedad de procedimientos, estrategias y recursos para recopilar, procesar y analizar datos, así como el uso de técnicas de muestreo y el cálculo de las medidas estadísticas y probabilísticas."
+                        },
+                        {
+                            "nombre": "Sustenta conclusiones o decisiones con base en la información obtenida",
+                            "descripcion": "Es tomar decisiones, hacer predicciones o elaborar conclusiones y sustentarlas con base en la información obtenida del procesamiento y análisis de datos, así como de la revisión y valoración de los procesos."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Ciencia y tecnología",
+            "competencias": [
+                {
+                    "nombre": "Indaga mediante metodos cientificos para construir conocimientos.",
+                    "descripcion": "El estudiante es capaz de construir su conocimiento acerca del funcionamiento y estructura del mundo natural y artificial que lo rodea, a través de procedimientos propios de la ciencia, reflexionando acerca de lo que sabe y de cómo ha llegado a saberlo poniendo en juego actitudes como la curiosidad, asombro, escepticismo, entre otras.",
+                    "capacidades": [
+                        {
+                            "nombre": "Problematiza situaciones",
+                            "descripcion": "Plantea preguntas sobre hechos y fenómenos naturales, interpreta situaciones y formula hipótesis"
+                        },
+                        {
+                            "nombre": "Diseña estrategias para hacer indagación",
+                            "descripcion": "Propone actividades que permitan construir un procedimiento; seleccionar materiales, instrumentos e información para comprobar o refutar las hipótesis."
+                        },
+                        {
+                            "nombre": "Genera y registra datos e información",
+                            "descripcion": "Obtiene, organiza y registra datos fiables en función de las variables, utilizando instrumentos y diversas técnicas que permitan comprobar o refutar las hipótesis."
+                        },
+                        {
+                            "nombre": "Analiza datos e información",
+                            "descripcion": "Interpreta los datos obtenidos en la indagación, contrastarlos con las hipótesis e información relacionada al problema para elaborar conclusiones que comprueban o refutan las hipótesis."
+                        },
+                        {
+                            "nombre": "Evalúa y comunica el proceso y resultados de su indagación",
+                            "descripcion": "Identificar y dar a conocer las dificultades técnicas y los conocimientos logrados para cuestionar el grado de satisfacción que la respuesta da a la pregunta de indagación."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Explica el mundo físico basandose en conocimientos sobre los seres vivos, materia y energía, biodiversidad, tierra y universo.",
+                    "descripcion": "El estudiante es capaz de comprender conocimientos científicos relacionados a hechos o fenómenos naturales, sus causas y relaciones con otros fenómenos, construyendo representaciones del mundo natural y artificial. Esta representación del mundo le permite evaluar situaciones donde la aplicación de la ciencia y la tecnología se encuentran en debate, para construir argumentos que lo llevan a participar, deliberar y tomar decisiones en asuntos personales y públicos, mejorando su calidad de vida, así como conservar el ambiente.",
+                    "capacidades": [
+                        {
+                            "nombre": "Comprende y usa conocimientos sobre los seres vivos, materia y energía, biodiversidad, Tierra y universo",
+                            "descripcion": "Establece relaciones entre varios conceptos y los transfiere a nuevas situaciones. Esto le permite construir representaciones del mundo natural y artificial, que se evidencian cuando el estudiante explica, ejemplifica, aplica, justifica, compara, contextualiza y generaliza sus conocimientos."
+                        },
+                        {
+                            "nombre": "Evalúa las implicancias del saber y del quehacer científico y tecnológico",
+                            "descripcion": "Cuando identifica los cambios generados en la sociedad por el conocimiento científico o desarrollo tecnológico, con el fin de asumir una postura crítica o tomar decisiones, considerando saberes locales, evidencia empírica y científica, con la finalidad de mejorar su calidad de vida y conservar el ambiente local y global."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Diseña y construye soluciones tecnológicas para resolver problemas de su entorno",
+                    "descripcion": "El estudiante es capaz de construir objetos, procesos o sistemas tecnológicos, basándose en conocimientos científicos, tecnológicos y de diversas prácticas locales, para dar respuesta a problemas del contexto, ligados a las necesidades sociales, poniendo en juego la creatividad y perseverancia.",
+                    "capacidades": [
+                        {
+                            "nombre": "Determina una alternativa de solución tecnológica",
+                            "descripcion": "Al detectar un problema y proponer alternativas de solución creativas basadas en conocimientos científico, tecnológico y prácticas locales, evaluando su pertinencia para seleccionar una de ellas."
+                        },
+                        {
+                            "nombre": "Diseña la alternativa de solución tecnológica",
+                            "descripcion": "Es representar de manera gráfica o esquemática la estructura y funcionamiento de la solución tecnológica (especificaciones de diseño), usando conocimiento científico, tecnológico y prácticas locales, teniendo en cuenta los requerimientos del problema y los recursos disponibles."
+                        },
+                        {
+                            "nombre": "Implementa y valida la alternativa de solución tecnológica",
+                            "descripcion": "Es llevar a cabo la alternativa de solución, verificando y poniendo a prueba el cumplimiento de las especificaciones de diseño y el funcionamiento de sus partes o etapas."
+                        },
+                        {
+                            "nombre": "Evalúa y comunica el funcionamiento y los impactos de su alternativa de solución tecnológica",
+                            "descripcion": "Es determinar qué tan bien la solución tecnológica logró responder a los requerimientos del problema, comunicar su funcionamiento y analizar sus posibles impactos, en el ambiente y la sociedad, tanto en su proceso de elaboración como de uso."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Educación para el Trabajo",
+            "competencias": [
+                {
+                    "nombre": "Gestiona proyectos de emprendimiento económico o social.",
+                    "descripcion": "Comprende que el estudiante trabaje cooperativamente para crear una alternativa de solución a una necesidad o problema de su entorno a través de una propuesta de valor de bien o servicio, valide sus ideas con posibles usuarios y seleccione, en función de la pertinencia y viabilidad, una de ellas; diseñe la estrategia que le permita implementar su alternativa de solución definiendo los recursos y tareas necesarios, aplique habilidades técnicas para producir o prestar el bien o servicio ideado y evalúe los procesos y resultados con el fin de tomar decisiones para mejorar o innovar. Durante estos procesos actúa permanentemente con ética, iniciativa, adaptabilidad y perseverancia.",
+                    "capacidades": [
+                        {
+                            "nombre": "Crea propuestas de valor",
+                            "descripcion": "Genera alternativas de solución creativas e innovadoras a través de un bien o servicio que resuelva una necesidad no satisfecha o un problema social que investiga en su entorno; evalúa la pertinencia de sus alternativas de solución validando sus ideas con las personas que busca beneficiar o impactar, y la viabilidad de las alternativas de solución en base a criterios para seleccionar una de ellas y diseña una estrategia que le permita poner en marcha su idea definiendo objetivos y metas y dimensionando los recursos y tareas."
+                        },
+                        {
+                            "nombre": "Aplica habilidades técnicas",
+                            "descripcion": "Es operar herramientas, máquinas o programas de software, y desarrollar métodos y estrategias para ejecutar los procesos de producción de un bien o la prestación de un servicio aplicando principios técnicos; implica seleccionar o combinar aquellas herramientas, métodos o técnicas en función de requerimientos específicos aplicando criterios de calidad y eficiencia."
+                        },
+                        {
+                            "nombre": "Trabaja cooperativamente para lograr objetivos y metas",
+                            "descripcion": "Es integrar esfuerzos individuales para el logro de un objetivo en común, organizar el trabajo en equipo en función de las habilidades diferentes que puede aportar cada miembro, asumir con responsabilidad su rol y las tareas que implica desempeñándose con eficacia y eficiencia. Es también reflexionar sobre su experiencia de trabajo y la de los miembros del equipo para generar un clima favorable, mostrando tolerancia a la frustración, aceptando distintos puntos de vista y consensuando ideas."
+                        },
+                        {
+                            "nombre": "Evalúa los resultados del proyecto de emprendimiento",
+                            "descripcion": "Es determinar en qué medida los resultados parciales o finales generaron los cambios esperados en la atención del problema o necesidad identificada; emplea la información para tomar decisiones e incorporar mejoras al diseño del proyecto. Es además analizar los posibles impactos en el ambiente y la sociedad, y formular estrategias que permitan la sostenibilidad del proyecto en el tiempo."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Educación Religiosa",
+            "competencias": [
+                {
+                    "nombre": "Construye su identidad como persona humana, amada por dios, digna, libre y trascendente, comprendiendo la doctrina de su propia religión, abierto al diálogo con las que le son cercanas.",
+                    "descripcion": "El estudiante descubre y asume que existe un Ser y una Verdad trascendentes, que le dan una identidad y una dignidad humanas y toma conciencia de que es hijo de Dios, creado a su imagen y semejanza, reconociendo su acción providente en la propia vida a través de la búsqueda reflexiva del sentido de la existencia. Desde esta conciencia, el estudiante, como persona digna, libre y trascendente, aprenderá a relacionarse consigo mismo, con los demás, con la naturaleza y con Dios como origen y fin último de todo lo creado.",
+                    "capacidades": [
+                        {
+                            "nombre": "Conoce a Dios y asume su identidad religiosa y espiritual como persona digna, libre y trascendente",
+                            "descripcion": "el estudiante comprende las distintas manifestaciones de Dios en su vida a partir del encuentro con Él, basado en la tradición cristiana, para construir un plan de vida significativo y pleno."
+                        },
+                        {
+                            "nombre": "Cultiva y valora las manifestaciones religiosas de su entorno argumentando su fe de manera comprensible y respetuosa.",
+                            "descripcion": "El estudiante conoce, valora y celebra su fe participando de las diferentes manifestaciones religiosas presentes en su comunidad. Asimismo, difunde el patrimonio religioso y cultural dando razones de su fe, y respetando las diversas creencias y expresiones religiosas de los demás."
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Asume la experiencia del encuentro personal y comunitario con dios en su proyecto de vida en coherencia con su creencia religiosa",
+                    "descripcion": "El estudiante busca a Dios de tal modo que exprese la dimensión espiritual y religiosa de manera testimonial en su vida cotidiana para consolidar su proyecto de vida significativo. El estudiante asume a Jesucristo como modelo para el fortalecimiento de su propia fe y la configuración de su vida según los valores y virtudes de la tradición cristiana y los ideales del Evangelio en diálogo crítico con las enseñanzas de otras confesiones.",
+                    "capacidades": [
+                        {
+                            "nombre": "Transforma su entorno desde el encuentro personal y comunitario con Dios y desde la fe que profesa",
+                            "descripcion": "el estudiante expresa su fe de manera espontánea y con gratuidad en la construcción de una sociedad justa, solidaria y fraterna, a partir de su proyecto de vida integrador y significativo que favorezca la vida armónica con los demás desde los valores del Evangelio."
+                        },
+                        {
+                            "nombre": "Actúa coherentemente en razón de su fe según los principios de su conciencia moral en situaciones concretas de la vida.",
+                            "descripcion": "el estudiante actúa según los principios de la conciencia ética y moral cristiana en situaciones concretas de la convivencia humana. Toman decisiones razonables en coherencia con los principios evangélicos."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

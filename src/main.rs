@@ -51,10 +51,8 @@ async fn main() -> shuttle_actix_web::ShuttleActixWeb<
 }
 
 async fn load_db() -> anyhow::Result<Database> {
-    let file = tokio::fs::read_to_string("db_normalized.json")
-        .await
-        .map_err(|e| anyhow::anyhow!("No se pudo leer db_normalized.json: {}", e))?;
-    let db: Database = serde_json::from_str(&file)
+    let file = include_str!("../db_normalized.json");
+    let db: Database = serde_json::from_str(file)
         .map_err(|e| anyhow::anyhow!("db_normalized.json no es un JSON válido: {}", e))?;
     Ok(db)
 }

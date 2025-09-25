@@ -1,7 +1,8 @@
 mod handlers;
 mod models;
 
-use actix_web::web;
+use actix_cors::Cors;
+use actix_web::{http, web};
 use handlers::*;
 use models::Database;
 use std::sync::Arc;
@@ -12,6 +13,7 @@ use tracing::error;
 async fn main() -> shuttle_actix_web::ShuttleActixWeb<
     impl FnOnce(&mut actix_web::web::ServiceConfig) + Send + Clone + 'static,
 > {
+    // Cargar la base de datos
     let db = match load_db().await {
         Ok(db) => Arc::new(RwLock::new(db)),
         Err(e) => {
@@ -20,15 +22,29 @@ async fn main() -> shuttle_actix_web::ShuttleActixWeb<
         }
     };
 
-    let db_data = web::Data::from(db);
+    let db_data = web::Data::new(db);
 
     let config = move |cfg: &mut web::ServiceConfig| {
-        cfg.app_data(db_data.clone())
-            .service(get_areas)
-            .service(get_area)
-            .service(get_area_competencias)
-            .service(get_competencia)
-            .service(get_capacidad);
+        let cors = Cors::default()
+            .send_wildcard()
+            .allowed_methods(vec!["GET", "POST", "PUT", "DELETE"])
+            .allowed_headers(vec![
+                http::header::CONTENT_TYPE,
+                http::header::AUTHORIZATION,
+            ])
+            .max_age(3600);
+
+        cfg.app_data(db_data.clone()).service(
+            web::scope("")
+                .wrap(cors)
+                .service(get_areas)
+                .service(get_area)
+                .service(get_area_competencias)
+                .service(get_competencia)
+                .service(get_capacidad)
+                .service(get_competencias)
+                .service(get_capacidades_by_competencia),
+        );
     };
 
     Ok(config.into())

@@ -1,51 +1,63 @@
 {
     "areas": [
         {
+            "id": 1,
             "nombre": "Desarrollo Personal, Ciudadanía y Cívica",
             "competencias": [
                 {
+                    "id": 101,
                     "nombre": "Construye su identidad",
                     "descripcion": "El estudiante conoce y valora su cuerpo, su forma de sentir, de pensar y de actuar desde el reconocimiento de las distintas identidades que lo definen (histórica, social, cultural, etc.).",
                     "capacidades": [
                         {
+                            "id": 1011,
                             "nombre": "Se valora a sí mismo.",
                             "descripcion": "El estudiante reconoce sus características, cualidades, limitaciones y potencialidades que lo hacen ser quien es, que le permiten aceptarse, sentirse bien consigo mismo y convivir con los demás."
                         },
                         {
+                            "id": 1012,
                             "nombre": "Autorregula sus emociones.",
                             "descripcion": "El estudiante reconoce y toma conciencia de sus emociones, a fin de poder expresarlas de manera adecuada según el contexto, los patrones culturales diversos y sus propias necesidades."
                         },
                         {
+                            "id": 1013,
                             "nombre": "Reflexiona y argumenta éticamente.",
                             "descripcion": "El estudiante analiza situaciones cotidianas para identificar los valores que están presentes en ellas y asumir una posición sustentada en argumentos razonados y éticos."
                         },
                         {
+                            "id": 1014,
                             "nombre": "Vive su sexualidad de manera plena y responsable.",
                             "descripcion": "Es tomar conciencia de sí mismo como hombre o mujer, a partir del desarrollo de su imagen corporal, de su identidad sexual y de género, y mediante la exploración de sus sentimientos, emociones y afectos."
                         }
                     ]
                 },
                 {
+                    "id": 102,
                     "nombre": "Convive y participa democráticamente en la búsqueda del bien común",
                     "descripcion": "El estudiante actúa en la sociedad relacionándose con los demás de manera justa y equitativa, reconociendo que todas las personas tienen los mismos derechos y deberes.",
                     "capacidades": [
                         {
+                            "id": 1021,
                             "nombre": "Interactúa con todas las personas",
                             "descripcion": "Reconoce a todos como personas valiosas y con derechos, muestra preocupación por el otro, respeta las diferencias y se enriquece de ellas. Actúa frente a situaciones de discriminación promoviendo la inclusión."
                         },
                         {
+                            "id": 1022,
                             "nombre": "Construye normas y asume acuerdos y leyes.",
                             "descripcion": "El estudiante participa en la construcción de normas, las respeta y evalúa en relación a los principios que las sustentan, así como cumple los acuerdos y leyes."
                         },
                         {
+                            "id": 1023,
                             "nombre": "Maneja conflictos de manera constructiva.",
                             "descripcion": "El estudiante actúa con empatía y asertividad frente a ellos y pone en práctica pautas y estrategias para resolverlos de manera pacífica y creativa, considerando diferentes intereses y puntos de vista."
                         },
                         {
+                            "id": 1024,
                             "nombre": "Delibera sobre asuntos públicos.",
                             "descripcion": "Participa en un proceso de reflexión y diálogo sobre asuntos que involucran a todos, donde se plantean diversos puntos de vista y se busca llegar a consensos."
                         },
                         {
+                            "id": 1025,
                             "nombre": "Participa en acciones que promueven el bienestar común.",
                             "descripcion": "Propone y gestiona iniciativas vinculadas con el interés común y con la promoción y defensa de los derechos humanos, tanto en la escuela como en la comunidad."
                         }
@@ -54,39 +66,48 @@
             ]
         },
         {
+            "id": 2,
             "nombre": "Ciencias Sociales",
             "competencias": [
                 {
+                    "id": 201,
                     "nombre": "Construye interpretaciones históricas",
                     "descripcion": "El estudiante sustenta una posición crítica sobre hechos y procesos históricos que ayuden a comprender el presente y sus desafíos, articulando el uso de distintas fuentes.",
                     "capacidades": [
                         {
+                            "id": 2011,
                             "nombre": "Interpreta críticamente fuentes diversas",
                             "descripcion": "Reconoce la diversidad de fuentes y su diferente utilidad para abordar un hecho o proceso histórico. Supone ubicarlas en su contexto y comprender, de manera crítica, su contenido."
                         },
                         {
+                            "id": 2012,
                             "nombre": "Comprende el tiempo histórico",
                             "descripcion": "Usa las nociones relativas al tiempo de manera pertinente, reconociendo que los sistemas de medición temporal son convenciones que dependen de distintas culturas."
                         },
                         {
+                            "id": 2013,
                             "nombre": "Elabora explicaciones sobre procesos históricos",
                             "descripcion": "Jerarquiza las causas de los procesos históricos relacionando las motivaciones de sus protagonistas con su cosmovisión y la época en la que vivieron."
                         }
                     ]
                 },
                 {
+                    "id": 202,
                     "nombre": "Gestiona responsablemente el espacio y el ambiente",
                     "descripcion": "El estudiante toma decisiones que contribuyen a la satisfacción de las necesidades desde una posición crítica y una perspectiva de desarrollo sostenible.",
                     "capacidades": [
                         {
+                            "id": 2021,
                             "nombre": "Comprende las relaciones entre los elementos naturales y sociales",
                             "descripcion": "Explica las dinámicas y transformaciones del espacio geográfico y el ambiente, a partir del reconocimiento de los elementos naturales y sociales que los componen."
                         },
                         {
+                            "id": 2022,
                             "nombre": "Maneja fuentes de información para comprender el espacio geográfico y el ambiente",
                             "descripcion": "Usa distintas fuentes: georreferenciadas, cartográficas, fotográficas e imágenes diversas, cuadros y gráficos estadísticos, entre otros, para analizar fenómenos espaciales y ambientales."
                         },
                         {
+                            "id": 2023,
                             "nombre": "Genera acciones para conservar el ambiente local y global",
                             "descripcion": "Propone y pone en práctica acciones orientadas al cuidado del ambiente, contribuyendo a la mitigación y adaptación al cambio climático, y a la gestión responsable de los recursos."
                         }

@@ -1,7 +1,7 @@
 mod handlers;
 mod models;
 
-use actix_web::{web};
+use actix_web::web;
 use handlers::*;
 use models::Database;
 use std::sync::Arc;
@@ -15,7 +15,7 @@ async fn main() -> shuttle_actix_web::ShuttleActixWeb<
     let db = match load_db().await {
         Ok(db) => Arc::new(RwLock::new(db)),
         Err(e) => {
-            error!("Error al cargar db.json: {:?}", e);
+            error!("Error al cargar db_normalized.json: {:?}", e);
             return Err(shuttle_runtime::Error::Custom(e));
         }
     };
@@ -35,9 +35,10 @@ async fn main() -> shuttle_actix_web::ShuttleActixWeb<
 }
 
 async fn load_db() -> anyhow::Result<Database> {
-    let file = tokio::fs::read_to_string("db.json").await
-        .map_err(|e| anyhow::anyhow!("No se pudo leer db.json: {}", e))?;
+    let file = tokio::fs::read_to_string("db_normalized.json")
+        .await
+        .map_err(|e| anyhow::anyhow!("No se pudo leer db_normalized.json: {}", e))?;
     let db: Database = serde_json::from_str(&file)
-        .map_err(|e| anyhow::anyhow!("db.json no es un JSON válido: {}", e))?;
+        .map_err(|e| anyhow::anyhow!("db_normalized.json no es un JSON válido: {}", e))?;
     Ok(db)
 }
